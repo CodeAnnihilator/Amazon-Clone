@@ -6,5 +6,6 @@ This project requires ElasticSearch engine up and running, so you can download i
 
 Since you have downloaded ElasticSearch, you can lounch it via elasticsearch.bat file.
 
-To start the project, you need to type in a console "node server"
+To run project, type "node server" in console.
+
 Project will run on localhost:3001
